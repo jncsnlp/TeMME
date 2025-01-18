@@ -48,7 +48,6 @@ python learner.py --dataset wikidata12k --model TeLM --rank 2000 --emb_reg 0.025
 ## Acknowledgement
 
 We refer to the code of TeLM. Thanks for their great contributions!
-Contact: yuhaokun@stu.jiangnan.edu.cn
 
 ## Cite Information
 
@@ -63,5 +62,7 @@ Lu, H. Y., Yu, H. K., Fan, C., Zhan, Q., Fang, W., & Wu, X. J. (2024, November).
   organization={Springer}
 }
 ```
+
+Contact: yuhaokun@stu.jiangnan.edu.cn
 
 
