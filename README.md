@@ -48,4 +48,5 @@ python learner.py --dataset wikidata12k --model TeLM --rank 2000 --emb_reg 0.025
 ## Acknowledgement
 
 We refer to the code of TeLM. Thanks for their great contributions!
+Contact: yuhaokun@stu.jiangnan.edu.cn
 
