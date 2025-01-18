@@ -1,4 +1,4 @@
-# [TeMME: Temporal Knowledge Graph Completion using Multi-grade Multivector Embeddings]
+# [TeMME: Temporal Knowledge Graph Completion using Multi-grade Multivector Embeddings]{https://link.springer.com/chapter/10.1007/978-981-96-0125-7_26}
 
 ## Installation
 
@@ -49,4 +49,18 @@ python learner.py --dataset wikidata12k --model TeLM --rank 2000 --emb_reg 0.025
 
 We refer to the code of TeLM. Thanks for their great contributions!
 Contact: yuhaokun@stu.jiangnan.edu.cn
+
+## Cite Information
+
+Lu, H. Y., Yu, H. K., Fan, C., Zhan, Q., Fang, W., & Wu, X. J. (2024, November). TeMME: Temporal Knowledge Graph Completion Using Multi-grade Multivector Embeddings. In Pacific Rim International Conference on Artificial Intelligence (pp. 305-317). Singapore: Springer Nature Singapore.
+
+@inproceedings{lu2024temme,
+  title={TeMME: Temporal Knowledge Graph Completion Using Multi-grade Multivector Embeddings},
+  author={Lu, Heng-Yang and Yu, Hao-Kun and Fan, Chenyou and Zhan, Qianyi and Fang, Wei and Wu, Xiao-Jun},
+  booktitle={Pacific Rim International Conference on Artificial Intelligence},
+  pages={305--317},
+  year={2024},
+  organization={Springer}
+}
+
 
